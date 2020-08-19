@@ -1,0 +1,27 @@
+LOGIN PAGE WITHOUT ADDING CSS 
+<html>
+<head>
+<meta charset="UTF-8">
+<meta name="description" content="this is an awesome website">
+<title> sai's website </title>
+</head>
+<body style= "background-color:lightblue;"> 
+<h1> LOGIN PAGE</h1>
+<form>
+<p><h6>ENTER YOUR USER NAME:</h6></P>
+<input type="text" />
+<p><h6>ENTER YOUR PASSWORD:<h6></P>
+<input type="password"/>
+<p><h6>ENTER YOUR DATE OF BIRTH:</h6></P>
+<input type="date" value="enter your date of birth"/>
+<P><h6> IF ALL THE ABOVE GIVEN INFORMATION IS CORRECT CLICK  ON CHECK BOX</h6></p>
+<input type="checkbox" value="click checkbox"/>
+<p><h6> CHECK YOUR DETAILS AND CLICK SUBMIT<H6></P>
+<input type="submit"/>
+</form>
+
+
+
+</body> 
+ 
+</html> 
